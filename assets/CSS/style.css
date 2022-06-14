@@ -139,6 +139,70 @@ p {
   line-height: 22px;
 }
 /****************ABOUT END*************************/
+/****************SKILLS START*************************/
+.skills {
+  width: 939px;
+}
+
+.skills__title {
+  margin-top: 91px;
+ 
+}
+.skills__title-text {
+  font-family: 'Gilroy-Bold';
+  font-size: 34px;
+  line-height: 42px;
+}
+.skills__info {
+  margin-top: 70px;
+  margin-bottom: 83px;
+}
+.skills__info-text {
+  font-family: 'Gilroy-Medium';
+  font-size: 18px;
+  line-height: 22px;
+}
+.skills__block {
+  width: 100%;
+  margin-bottom: 110px;
+}
+
+.block__item {
+}
+.block__item-icon {
+  width: 89px;
+  height: 88px;
+  margin-bottom: 24px;
+}
+.block__item-title {
+  width: 70px;
+  height: 27px;
+  font-family: 'Gilroy-Bold';
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  margin-bottom: 41px;
+}
+.rating-result {
+	width: 167px;
+	margin: 0 auto;
+}
+.rating-result span {
+	padding: 0;
+	font-size: 24px;
+	margin: 0 3px;
+	line-height: 1;
+	color: #E5E5E5;
+}
+.rating-result > span:before {
+	content: '★';
+}
+.rating-result > span.active {
+	color: black;
+  
+}
+
+/****************SKILLS END*************************/
 
 
 
